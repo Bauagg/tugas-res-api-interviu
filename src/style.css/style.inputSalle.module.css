@@ -1,0 +1,48 @@
+.container1 {
+    width: 600px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 0 40px;
+    background-color: #fff;
+}
+
+.label {
+    width: 100%;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.imageProduct {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.container2 {
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Alert Success */
+
+.container3 {
+    width: 400px;
+    margin: 40px auto;
+    padding: 30px;
+}
+
+/* Login */
+.containerLogin {
+    width: 500px;
+    margin: 50px auto;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+    padding: 40px 40px;
+    border-radius: 20px;
+}
+
+/* hompages item */
+.cartImg {
+    height: 200px;
+    object-fit: cover;
+}

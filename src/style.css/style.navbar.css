@@ -1,0 +1,139 @@
+.btn-logout {
+    margin-right: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #f1f1f1;
+    transition: all 1s;
+}
+
+.link:hover {
+    color: #fff;
+}
+
+.container1 {
+    width: 1000px;
+    padding: 30px;
+    /* box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+    filter: drop-shadow(rgba(0, 0, 0, 0.3)); */
+    filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
+    margin: auto;
+    margin-top: 20px;
+}
+
+.imageHero {
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+    width: 512px;
+}
+
+.imageProduct {
+    width: 80%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+.iconsLove {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.containerImages {
+    height: 105px;
+    width: 512px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconSectionProduct {
+    width: 105px;
+    height: 105px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.imageIconProduct {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+.containerColor {
+    width: 291px;
+    margin-top: 10px;
+}
+
+.color {
+    background-color: #b486f0;
+    width: 46px;
+    height: 46px;
+}
+
+.price1 {
+    font-size: 20px;
+}
+
+.price2 {
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.btn1 {
+    width: 72px;
+    height: 36px;
+    text-align: center;
+}
+
+.inputQTY {
+    height: 36px;
+    text-align: center;
+    width: 111px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn2 {
+    width: 297px;
+    margin-top: 35px;
+    margin-bottom: 55px;
+}
+
+.iconDelivery {
+    box-shadow: none;
+    margin-right: 10px;
+}
+
+.conten1 {
+    display: flex;
+    width: 291px;
+    margin-top: 10px;
+}
+
+.conten2 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.componenInput {
+    position: absolute;
+    z-index: 3;
+    width: 1300px;
+    padding-top: 50px;
+    height: 750px;
+    background-color: rgba(0, 0, 0, 0.519);
+}
+
+.clossBTN {
+    position: absolute;
+    left: 900px;
+    top: 70px;
+}
